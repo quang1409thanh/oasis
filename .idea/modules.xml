@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week11/Generic/Generic.iml" filepath="$PROJECT_DIR$/week11/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week8/abstract/abstract.iml" filepath="$PROJECT_DIR$/week8/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9/banking_system/banking_system.iml" filepath="$PROJECT_DIR$/week9/banking_system/banking_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week11/covua1/covua1.iml" filepath="$PROJECT_DIR$/week11/covua1/covua1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week11/covua1kt/covua1kt.iml" filepath="$PROJECT_DIR$/week11/covua1kt/covua1kt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6/dahinh1/dahinh1.iml" filepath="$PROJECT_DIR$/week6/dahinh1/dahinh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6/dahinh2/dahinh2.iml" filepath="$PROJECT_DIR$/week6/dahinh2/dahinh2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/week3/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/fraction/fraction.iml" filepath="$PROJECT_DIR$/week3/fraction/fraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/gcd/gcd.iml" filepath="$PROJECT_DIR$/week3/gcd/gcd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week10/interface/interface.iml" filepath="$PROJECT_DIR$/week10/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/jUnit/jUnit.iml" filepath="$PROJECT_DIR$/week5/jUnit/jUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/kethua1/kethua1.iml" filepath="$PROJECT_DIR$/week5/kethua1/kethua1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/kethua2/kethua2.iml" filepath="$PROJECT_DIR$/week5/kethua2/kethua2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7/ngoaile1/ngoaile1.iml" filepath="$PROJECT_DIR$/week7/ngoaile1/ngoaile1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7/ngoaile2/ngoaile2.iml" filepath="$PROJECT_DIR$/week7/ngoaile2/ngoaile2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oasis.iml" filepath="$PROJECT_DIR$/.idea/oasis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/prime/prime.iml" filepath="$PROJECT_DIR$/week3/prime/prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/week1.iml" filepath="$PROJECT_DIR$/week1/week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week10/week10.iml" filepath="$PROJECT_DIR$/week10/week10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week11/week11.iml" filepath="$PROJECT_DIR$/week11/week11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/week2.iml" filepath="$PROJECT_DIR$/week2/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3.iml" filepath="$PROJECT_DIR$/week3/week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4.iml" filepath="$PROJECT_DIR$/week4/week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/week5.iml" filepath="$PROJECT_DIR$/week5/week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6/week6.iml" filepath="$PROJECT_DIR$/week6/week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7/week7.iml" filepath="$PROJECT_DIR$/week7/week7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week8/week8.iml" filepath="$PROJECT_DIR$/week8/week8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9/week9.iml" filepath="$PROJECT_DIR$/week9/week9.iml" />
+    </modules>
+  </component>
+</project>

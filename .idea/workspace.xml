@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae817a8d-4799-48c6-bee5-2bf5d19060b2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H3yv8bTOXq909SuoPh838YohAm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive - vnu.edu.vn/nam nhat/nam2ki1/oop/oasis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\OneDrive - vnu.edu.vn\nam nhat\nam2ki1\oop\oasis\week11\covua1kt\src" />
+      <recent name="C:\Users\Lenovo\OneDrive - vnu.edu.vn\nam nhat\nam2ki1\oop\oasis\week11\covua1kt" />
+      <recent name="C:\Users\Lenovo\OneDrive - vnu.edu.vn\nam nhat\nam2ki1\oop\oasis\week11\Generic\src" />
+      <recent name="C:\Users\Lenovo\OneDrive - vnu.edu.vn\nam nhat\nam2ki1\oop\oasis\week11\covua1\src" />
+      <recent name="C:\Users\Lenovo\OneDrive - vnu.edu.vn\nam nhat\nam2ki1\oop\oasis\week10\interface\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Week4Test">
+    <configuration name="Week4Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Week4Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week4Test.testCalculateBMI5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Week4Test" />
+      <option name="METHOD_NAME" value="testCalculateBMI5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week4Test.testMax2Int2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Week4Test" />
+      <option name="METHOD_NAME" value="testMax2Int2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week4Test.testMax2Int2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Week4Test" />
+      <option name="METHOD_NAME" value="testMax2Int2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Week4Test" />
+        <item itemvalue="TestNG.Week4Test.testMax2Int2 (1)" />
+        <item itemvalue="TestNG.Week4Test.testCalculateBMI5" />
+        <item itemvalue="TestNG.Week4Test.testMax2Int2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae817a8d-4799-48c6-bee5-2bf5d19060b2" name="Changes" comment="" />
+      <created>1667528297502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667528297502</updated>
+      <workItem from="1667528301055" duration="72000" />
+      <workItem from="1667528461539" duration="3787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
